@@ -1,0 +1,32 @@
+.chatRightSection{
+    flex:2;
+    height: 100%;
+    background-color: #ddddf7;
+    
+}
+
+.chatHeadingOfRightSection{
+    height: 10%;
+    background-color: #5d5b8d;
+    color:#ddddf6;
+    
+    padding: 10px;
+}
+.chatIconsInRightSectionHeading{
+    font-size: 1.3rem !important;
+    color:#ddddf6 !important;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.imageInMessage{
+    display: flex;
+    flex-direction: column;
+}
+.imageInMessage> img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin:5px 0;
+}
