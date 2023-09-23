@@ -1,0 +1,11 @@
+.chatOuterContainer{
+    height: 100vh;
+    background-color: #a7bcff;
+}
+.chatInnerContainer{
+    /* width: 53%; */
+    height: 88%;
+    border-radius: 10px;
+    box-shadow: 1px 1px 12px rgba(0, 0, 0, 0.7);
+    overflow: hidden;
+}
